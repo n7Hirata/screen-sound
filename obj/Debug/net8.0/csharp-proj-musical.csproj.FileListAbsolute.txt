@@ -1,0 +1,14 @@
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\bin\Debug\net8.0\csharp-proj-musical.exe
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\bin\Debug\net8.0\csharp-proj-musical.deps.json
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\bin\Debug\net8.0\csharp-proj-musical.runtimeconfig.json
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\bin\Debug\net8.0\csharp-proj-musical.dll
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\bin\Debug\net8.0\csharp-proj-musical.pdb
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\obj\Debug\net8.0\csharp-proj-musical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\obj\Debug\net8.0\csharp-proj-musical.AssemblyInfoInputs.cache
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\obj\Debug\net8.0\csharp-proj-musical.AssemblyInfo.cs
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\obj\Debug\net8.0\csharp-proj-musical.csproj.CoreCompileInputs.cache
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\obj\Debug\net8.0\csharp-proj-musical.dll
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\obj\Debug\net8.0\refint\csharp-proj-musical.dll
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\obj\Debug\net8.0\csharp-proj-musical.pdb
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\obj\Debug\net8.0\csharp-proj-musical.genruntimeconfig.cache
+C:\Users\natan\source\repos\csharp-proj-musical\csharp-proj-musical\obj\Debug\net8.0\ref\csharp-proj-musical.dll
